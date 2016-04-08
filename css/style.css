@@ -1,0 +1,83 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    /* padding-bottom:190px;*/
+    
+}
+*{
+  border-radius: 0 !important;
+}
+.navbar-blue{
+    
+    background-color:#0077CC !important;
+    
+}
+.navtextcolor{
+    
+        color:white!important;
+    
+}
+.btn-blue{
+   
+       background-color:#0077CC !important;
+       color:white; 
+    
+}
+.btn-grey{
+   
+       background-color:#f2f2f2 !important;
+       color:black; 
+    
+}
+.bgcoloralt{
+    
+    background-color:#F2F2F2;
+    
+}
+.glyphsize{
+    
+    font-size: 10em;
+    
+}
+.footercolor{
+    
+    background-color: #2F2F2F;
+    color:#F2F2F2;
+    
+}
+
+.keyboard{
+
+  position: relative;
+
+}
+
+
+
+/* ############################ lånt kode ################################### */
+
+.sidebar{
+    
+    background-color: #F2F2F2;
+    height: 90%;    
+}
+
+.navbar {
+    margin-bottom: 0!important;
+}
+
+.sidemenu{
+    
+    font-size: 1em;
+    
+}
+.freespace{
+    font-size: 1em;
+   margin-top: 500px;
+    
+}
+
+ .showitem:hover{
+  cursor: pointer;
+  background-color: #F2F2F2;
+}
